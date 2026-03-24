@@ -31,7 +31,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://Arumugam.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://Arumugam.vercel.app/" target="_blank">Arumugam.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
